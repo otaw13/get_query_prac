@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Volkhov:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Volkhov:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+
+  .opensans{
+    font-family: 'Open Sans' , sans-serif;
+  }
+
+  .poppins{
+    font-family: 'Poppins', sans-serif;
+  }
+  .volkhov{
+    font-family: 'Volkhov', sans-serif;
+  }
+
+  .shad:hover{
+    box-shadow: 0px 8px 7px -6px rgba(0,0,0,0.5);
+  }
+  .shads{
+    box-shadow: 0px 8px 7px -6px rgba(0,0,0,0.5);
+  }
+  
+  .shad1{
+    box-shadow: 0px 8px 7px -6px rgba(0,0,0,0.5);
+  }
+
+  .shadblue{
+    box-shadow: 60px -75px 300px -12px rgba(89,177,230,0.4);
+  }
+  .shadblack{
+    box-shadow: 10px 50px 295px -41px rgba(0,0,0,0.6);
+    }
+
+.h3mapText{
+font-weight: 700;
+font-family: 'opensans', sans-serif ;
+color: black;
+display: flex;
+justify-content: end;
+align-items: end;
+
+
+
+}
